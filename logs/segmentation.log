@@ -1,0 +1,9 @@
+2025-10-25 17:56:40,849 - INFO - Iniciando fluxo de segmentação e exportação de clientes...
+2025-10-25 17:56:40,897 - INFO - Dados carregados com sucesso. Executando segmentações...
+2025-10-25 17:56:40,909 - INFO - Segmentação por recência realizada.
+2025-10-25 17:56:41,058 - INFO - Segmentação RFM realizada.
+2025-10-25 17:56:41,089 - INFO - Segmentação por engajamento realizada.
+2025-10-25 17:56:41,141 - INFO - Exportou 5 clientes Ativos para CSV.
+2025-10-25 17:56:41,151 - INFO - Exportou 1 clientes Campeões para CSV.
+2025-10-25 17:56:41,159 - INFO - Exportou 11 clientes Altamente Engajados para CSV.
+2025-10-25 17:56:41,161 - INFO - Processo completo com sucesso!

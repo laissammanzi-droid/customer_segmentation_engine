@@ -1,0 +1,14 @@
+{
+    "data_source": "csv",  
+    "hubspot_api_key": "demo-key-coloque-a-sua",
+    "recency_active_days": 30,
+    "recency_risk_days": 90,
+    "rfm_recency_threshold": 30,
+    "rfm_frequency_threshold": 5,
+    "rfm_monetary_threshold": 1000,
+    "engagement_high": 15,
+    "engagement_medium": 6,
+    "engagement_low": 0
+}
+
+
